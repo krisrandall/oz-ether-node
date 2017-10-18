@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PWD = $(pwd)
+PWD=$(pwd)
 
 mkdir ./blockchain_node
 cp ./genesis.json ./blockchain_node
