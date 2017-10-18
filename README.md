@@ -7,6 +7,7 @@ by setting up your own node on the network
 
 * shell script (use gitbash Windows)
 * docker ([ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-16-04), [mac](https://docs.docker.com/docker-for-mac/install/), [windows](https://docs.docker.com/toolbox/toolbox_install_windows/))
+* curl
 
 ## Quick Setup
 
@@ -21,6 +22,9 @@ by setting up your own node on the network
 
 * "... is not shared from OS X and is not known to Docker."   
   *Your Docker > Preferences > File Sharing must include your current path*.  
+
+* "... failed: port is already allocated."    
+  *Your node is already active, use `docker ps` to get the NAME, and `docker kill NAME` to stop it*
 
 ## More Information
 

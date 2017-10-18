@@ -4,7 +4,7 @@ Anyone can connect to the Oz Ethereum Network
 
 1. Install the [Chrome Metamask Plugin](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en) , and create a Wallet for yourself
 2. Click in the top-right to change Network and choose "Custom RPC" at the bottom
-3. Enter **http://104.131.122.94:8545**, press Save and <-
+3. Enter **http://104.131.122.94:8555**, press Save and <-
 
 ![](img/oz-metamask.png)
 
