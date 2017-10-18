@@ -13,7 +13,7 @@ Press enter twice and you should see the Geth console prompt :
 
 `>`
 
-##### Next : [Useful "geth" commands (creating accounts, mining, transfering ether)](doc/geth-commands.md)
+##### Next : [Useful "geth" commands (creating accounts, mining, transfering ether)](geth-commands.md)
 
 *Note that when you `exit` the geth console it will stop your container, and you will need to restart your node with `./run.sh` again.*
 
