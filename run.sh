@@ -16,6 +16,6 @@ docker run -it -d -v ${PWD}/blockchain_node:/root \
      -p ${BOOT_RPC_PORT}:${BOOT_RPC_PORT} -p ${NETWORK_PORT}:${NETWORK_PORT}  \
      ethereum/client-go --port ${NETWORK_PORT} --networkid 4552 --rpc --rpcport ${BOOT_RPC_PORT} \
      --datadir /root --verbosity 3 --rpcaddr 0.0.0.0 \
-     --rpccorsdomain * --rpcapi eth,net,web3,personal,admin \
+     --rpcapi eth,net,web3,personal,admin \
      --bootnodes {BOOT_INODE} \
      console
