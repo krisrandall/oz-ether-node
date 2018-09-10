@@ -1,3 +1,19 @@
+# Oz Ethereum Node : Sunsetted
+
+![](./ss.jpg)
+
+*The Oz Ethereum Node was activated on 16 October 2017 and sunsetted on 10 September 2018*
+
+
+<br/>
+<br/>
+
+------
+
+<br/>
+<br/>
+
+
 # Oz Ethereum Node
 
 Join the Oz Ethereum Network    
